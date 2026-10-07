@@ -26,7 +26,7 @@ You stay in control of staging and committing. The extension only writes the mes
 
 ## Install
 
-In VS Code, open Extensions, click **… → Install from VSIX…**, and select `codex-commit-message-0.1.2.vsix` from this folder. Reload VS Code if prompted.
+In VS Code, open Extensions, click **… → Install from VSIX…**, and select `codex-commit-message-0.1.2.vsix`. Reload VS Code if prompted. Release packages will be available on the [GitHub releases page](https://github.com/libsrcdev/commit-message-vscode-codex/releases).
 
 The publisher is `libsrcdev`, giving the extension the ID `libsrcdev.codex-commit-message`. If you installed an earlier development package under `local-tools`, uninstall that version first: VS Code treats the new publisher as a separate extension.
 
