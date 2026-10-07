@@ -1,0 +1,21 @@
+# Local credentials and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.aws/
+.codex/
+auth.json
+
+# Dependencies, generated packages, and local caches
+node_modules/
+*.vsix
+__pycache__/
+*.py[cod]
+.DS_Store
+*.log
+
+# Keep the shared development launch configuration
+.vscode/*
+!.vscode/launch.json
